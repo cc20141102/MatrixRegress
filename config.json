@@ -1,0 +1,9 @@
+{
+    "data_path": "./data/000",
+    "input_shape": [7, 100, 100],
+    "output_shape": [3, 1000, 1000],
+    "pred_path": "./data/000_split/pred",
+    "save_path": "./data/000_split/valid",
+    "test_path": "./data/000_split/valid",
+    "result_csv": "./logs/result_valid.csv"
+} 
